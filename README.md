@@ -25,7 +25,7 @@
 <br/><br/>
 
 <!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=tu-usuario-github&label=Profile+views&color=7c3aed&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=DavidRamirezH&label=Profile+views&color=7c3aed&style=flat-square" alt="profile views"/>
 
 </div>
 
