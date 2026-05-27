@@ -91,14 +91,14 @@ const hector = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidRamirezH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRamirezH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidRamirezH&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak"/>
 
 </div>
 
@@ -109,11 +109,11 @@ const hector = {
 
 <div align="center">
 
-<a href="https://github.com/tu-usuario-github/proyecto-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=proyecto-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<a href="https://github.com/DavidRamirezH/proyecto-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidRamirezH&repo=proyecto-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 </a>
-<a href="https://github.com/tu-usuario-github/proyecto-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario-github&repo=proyecto-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<a href="https://github.com/DavidRamirezH/proyecto-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidRamirezH&repo=proyecto-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -125,7 +125,7 @@ const hector = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario-github&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7c3aed&point=A78BFA" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidRamirezH&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7c3aed&point=A78BFA" width="100%"/>
 
 </div>
 
